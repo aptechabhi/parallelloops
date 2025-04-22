@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\bin\Debug\net9.0\parallelloops.exe
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\bin\Debug\net9.0\parallelloops.deps.json
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\bin\Debug\net9.0\parallelloops.runtimeconfig.json
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\bin\Debug\net9.0\parallelloops.dll
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\bin\Debug\net9.0\parallelloops.pdb
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\obj\Debug\net9.0\parallelloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\obj\Debug\net9.0\parallelloops.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\obj\Debug\net9.0\parallelloops.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\obj\Debug\net9.0\parallelloops.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\obj\Debug\net9.0\parallelloops.dll
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\obj\Debug\net9.0\refint\parallelloops.dll
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\obj\Debug\net9.0\parallelloops.pdb
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\obj\Debug\net9.0\parallelloops.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\parallelloops\parallelloops\obj\Debug\net9.0\ref\parallelloops.dll
